@@ -1,6 +1,8 @@
 # Projeto em JS 
 -Produzindo um relógio 
 
+![imagem](/images/relogio.png)
+
 ## Css
     z-index
     variáveis
